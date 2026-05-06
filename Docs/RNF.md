@@ -2,7 +2,7 @@
 
 RNF01 - Confiabilidade: O sistema deve garantir a integridade dos dados, impedindo a perda de registros de público em caso de falhas de conexão.
 
-RNF02 - Disponibilidade: O sistema deve estar disponível para consulta e registro de dados 24/7 (24 horas por dia, 7 dias por semana).
+RNF02 - Disponibilidade: O sistema deve estar disponível para consulta e registro de dados 24 horas por dia, 7 dias por semana(24/7).
 
 RNF03 - Desempenho: As consultas de totalização de público devem ser processadas em menos de 2 segundos.
 
